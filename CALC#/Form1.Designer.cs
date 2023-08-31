@@ -118,6 +118,7 @@
             BTN6.TabIndex = 5;
             BTN6.Text = "6";
             BTN6.UseVisualStyleBackColor = true;
+            BTN6.Click += BTN6_Click;
             // 
             // BTN4
             // 
@@ -128,6 +129,7 @@
             BTN4.TabIndex = 4;
             BTN4.Text = "4";
             BTN4.UseVisualStyleBackColor = true;
+            BTN4.Click += BTN4_Click;
             // 
             // BTN8
             // 
@@ -138,6 +140,7 @@
             BTN8.TabIndex = 9;
             BTN8.Text = "8";
             BTN8.UseVisualStyleBackColor = true;
+            BTN8.Click += BTN8_Click;
             // 
             // BTN9
             // 
@@ -148,6 +151,7 @@
             BTN9.TabIndex = 8;
             BTN9.Text = "9";
             BTN9.UseVisualStyleBackColor = true;
+            BTN9.Click += BTN9_Click;
             // 
             // BTN7
             // 
@@ -158,6 +162,7 @@
             BTN7.TabIndex = 7;
             BTN7.Text = "7";
             BTN7.UseVisualStyleBackColor = true;
+            BTN7.Click += BTN7_Click;
             // 
             // VACIAR
             // 
@@ -179,6 +184,7 @@
             SIUU.TabIndex = 11;
             SIUU.Text = "<-";
             SIUU.UseVisualStyleBackColor = true;
+            SIUU.Click += SIUU_Click;
             // 
             // CLEAR1
             // 
@@ -200,6 +206,7 @@
             RAIZ.TabIndex = 14;
             RAIZ.Text = "√";
             RAIZ.UseVisualStyleBackColor = true;
+            RAIZ.Click += RAIZ_Click;
             // 
             // POTENCIA
             // 
@@ -215,12 +222,13 @@
             // PORCENTAJE
             // 
             PORCENTAJE.Font = new Font("Segoe UI", 27.75F, FontStyle.Regular, GraphicsUnit.Point);
-            PORCENTAJE.Location = new Point(227, 192);
+            PORCENTAJE.Location = new Point(219, 192);
             PORCENTAJE.Name = "PORCENTAJE";
             PORCENTAJE.Size = new Size(63, 63);
             PORCENTAJE.TabIndex = 16;
             PORCENTAJE.Text = "%";
             PORCENTAJE.UseVisualStyleBackColor = true;
+            PORCENTAJE.Click += PORCENTAJE_Click;
             // 
             // MULT
             // 
@@ -241,6 +249,7 @@
             SUMA.TabIndex = 18;
             SUMA.Text = "+";
             SUMA.UseVisualStyleBackColor = true;
+            SUMA.Click += SUMA_Click;
             // 
             // RESTA
             // 
@@ -294,6 +303,7 @@
             BTISQ.TabIndex = 20;
             BTISQ.Text = "±";
             BTISQ.UseVisualStyleBackColor = true;
+            BTISQ.Click += BTISQ_Click;
             // 
             // Form1
             // 
