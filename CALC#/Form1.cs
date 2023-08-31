@@ -88,8 +88,8 @@ namespace CALC_
 
         private void CLEAR1_Click(object sender, EventArgs e)
         {
-            var boton = ((Button)sender);
-            agregarnumero(boton.Text);
+            if (CONSOLAJEAN.Text != "0")
+                CONSOLAJEAN.Text = "";
         }
 
         private void VACIAR_Click(object sender, EventArgs e)
