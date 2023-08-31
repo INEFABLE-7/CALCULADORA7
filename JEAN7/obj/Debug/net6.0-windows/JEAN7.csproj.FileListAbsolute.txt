@@ -1,0 +1,17 @@
+C:\Users\Alumno\Desktop\JEAN\JEAN7\bin\Debug\net6.0-windows\JEAN7.exe
+C:\Users\Alumno\Desktop\JEAN\JEAN7\bin\Debug\net6.0-windows\JEAN7.deps.json
+C:\Users\Alumno\Desktop\JEAN\JEAN7\bin\Debug\net6.0-windows\JEAN7.runtimeconfig.json
+C:\Users\Alumno\Desktop\JEAN\JEAN7\bin\Debug\net6.0-windows\JEAN7.dll
+C:\Users\Alumno\Desktop\JEAN\JEAN7\bin\Debug\net6.0-windows\JEAN7.pdb
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.Form1.resources
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.dll
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\refint\JEAN7.dll
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.pdb
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\JEAN7.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\JEAN\JEAN7\obj\Debug\net6.0-windows\ref\JEAN7.dll
