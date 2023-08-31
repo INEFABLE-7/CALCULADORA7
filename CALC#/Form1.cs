@@ -6,5 +6,101 @@ namespace CALC_
         {
             InitializeComponent();
         }
+
+        private void agregarnumero(String numero)
+        {
+            if (CONSOLAJEAN.Text == "0")
+                CONSOLAJEAN.Text = "";
+
+            CONSOLAJEAN.Text +=numero;
+
+
+
+        }
+
+
+
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void CLEAR1_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void VACIAR_Click(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            var boton = ((Button)sender);
+            agregarnumero(boton.Text);
+        }
     }
 }
